@@ -1,0 +1,1 @@
+Commit de novos dados do repositório local para o remoto.
